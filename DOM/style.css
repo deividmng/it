@@ -1,0 +1,15 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.listItems {
+  background-color: crimson;
+}
+
+.newListItems {
+  background-color: aquamarine;
+}
+
+#item5 {
+  color: goldenrod;
+}

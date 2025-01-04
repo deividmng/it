@@ -1,0 +1,30 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  background-color: darkslategray;
+  color: #fff;
+  margin: 50px;
+  padding: 50px;
+  border-radius: 10px;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+.counter {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+#countDisplay {
+  font-size: 3em;
+}
